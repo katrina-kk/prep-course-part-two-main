@@ -1,3 +1,4 @@
+# Fixing bugs to execute tests correctly. All tasks from https://www.codelex.io/ prep course. 
 # Easy Exercises
 
 Probably most of the _Warm Up_ exercises are finished if you have managed to get this far.
